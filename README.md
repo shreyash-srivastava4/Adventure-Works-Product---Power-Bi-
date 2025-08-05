@@ -1,5 +1,4 @@
-# Adventure-Works-Product---Power-Bi-
-Power BI dashboard for Adventure Works dataset showcasing sales performance, returns analysis, and revenue trends across product categories and geographies. Includes key KPIs, interactive visuals, and drill-down insights.
+
 # Adventure Works Power BI Dashboard
 
 An interactive **Power BI dashboard** built using the **Adventure Works dataset** to analyze sales performance, returns, and revenue trends across multiple dimensions.
@@ -70,6 +69,11 @@ This dashboard is ideal for:
 ## 📷 Dashboard Preview
 
 <img width="1559" height="889" alt="Capture1" src="https://github.com/user-attachments/assets/7c935555-5d4c-4c13-9197-39b6be5465f0" />
+
+<img width="1555" height="887" alt="Capture2" src="https://github.com/user-attachments/assets/088d45ad-e9ff-437f-aae9-39c82b40e697" />
+
+<img width="1243" height="730" alt="Capture3" src="https://github.com/user-attachments/assets/1a7566cf-213b-401b-af07-f12e984cc137" />
+
 
 ---
 
